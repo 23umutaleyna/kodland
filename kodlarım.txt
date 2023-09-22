@@ -4,4 +4,6 @@ int number=13;
 
 float timer=0f;
 
-print("merhaba dünya"
+print("merhaba dünya");
+
+print("kodland);
