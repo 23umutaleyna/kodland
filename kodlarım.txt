@@ -1,3 +1,7 @@
+<<<<<<< HEAD
 kedi
 merhaba
 kedi güzel kedi
+=======
+merhaba
+>>>>>>> parent of 27fc839 (Revert "Update kodlarım.txt")
